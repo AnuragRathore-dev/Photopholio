@@ -1,0 +1,31 @@
+/* input box within the form */
+.input{
+    width: 55%;
+    margin: 0 2%;
+    background-color: transparent;
+    border:none;
+    border-bottom: 2px solid #ff7900;
+    border-radius: 0;
+}
+
+/* buttons inside the form */
+.formBtn{
+    width: 100px;
+    margin: 0 2%;
+    height: 31px;
+    color: white;
+    font-size: 14px;
+}
+
+/* clear button */
+.clearBtn{
+    background-color:rgb(245, 41, 41);
+    color:white;
+}
+
+/* add button */
+.addBtn{
+    background-color:rgb(115, 183, 14);
+    color:white;
+    padding-top: 3px;
+}
