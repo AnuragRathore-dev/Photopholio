@@ -1,4 +1,4 @@
-// react hooks
+
 import { useEffect, useState } from "react";
 
 // required Components to render 
